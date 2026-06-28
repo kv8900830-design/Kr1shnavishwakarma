@@ -28,7 +28,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kv8900830-design&" alt="kv8900830-design" /></p>
 
 
-- 📫 How to reach me **mail.kr1shnavishwakarma@gmail.com**
 
 💫 About Me:
 🎓 Master of Computer Application (MCA), Maharashtra Govt. College, Mumbai
