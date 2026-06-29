@@ -18,6 +18,11 @@
 <a href="https://instagram.com/https://www.instagram.com/kr1shnavishwakarma?igsh=edm3dnvzdhf2ani5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kr1shnavishwakarma?igsh=edm3dnvzdhf2ani5" height="30" width="40" /></a>
 </p>
 
+
+<p align="center">
+  <img src="./contrib.svg" alt="2025 GitHub Contributions" height="150" width="150%"/>
+</p>
+
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kr1shnavishwakarma&theme=github-dark)
