@@ -28,7 +28,9 @@
   />
 </picture>
 
-
+<p align="center">
+  <img src="./contrib.svg" alt="2025 GitHub Contributions" height="150" width="150%"/>
+</p>
 
 
 <h3 align="left">Main Collectibles of Language and codes:</h3>
@@ -41,10 +43,23 @@
 <a href="https://instagram.com/https://www.instagram.com/kr1shnavishwakarma?igsh=edm3dnvzdhf2ani5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kr1shnavishwakarma?igsh=edm3dnvzdhf2ani5" height="30" width="40" /></a>
 </p>
 
+<div align="center">
 
-<p align="center">
-  <img src="./contrib.svg" alt="2025 GitHub Contributions" height="150" width="150%"/>
-</p>
+
+
+2026 Active status Board
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-user-contribution.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-user-contribution.svg">
+  <img alt="github-contribution-snake" src="./github-user-contribution.svg">
+</picture>
+
+
+</div>
+
+
+
 
 ## 📈 Activity Graph
 
